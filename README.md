@@ -26,6 +26,8 @@ git clone https://github.com/1sis/Shou
 cd Shou
 pip install -r requirements.txt
 ```
+Modify your registry key with "EnableVBOM.reg"
+
 
 ## Utilisation:
 
