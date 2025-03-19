@@ -31,11 +31,6 @@ class ActiveMime:
 
         self.magic_tail = SimpleNamespace()  # all of this is a wild guess
         self.magic_tail.header = iterator.next(0x04)
-        if self.magic_tail.header == b'\x0c\x04\x00\x00':
-            self.has_magic_tail = True
-        else:
-            self.has_magic_tail = False
-            return
 
         iterator.next(0x01)  # skipping delimiter
         self.magic_tail.unknown_a = iterator.next(0x01)
