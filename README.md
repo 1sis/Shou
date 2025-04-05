@@ -1,4 +1,4 @@
-# **Shou** – **Automated fake PDF Creation with embedded VBA macros**
+# **Shou** – **Automated Maldoc Creation with ActiveMime tricks**
 
 **Shou** is a tool designed for automate MalDoc generation.
 
