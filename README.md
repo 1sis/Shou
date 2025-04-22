@@ -12,12 +12,6 @@ If the MHT file is renamed to .doc, it executes the macros, so it's a quickwin :
 
 Thanks to [@ttpreport](https://x.com/ttpreport) for the help, and permission to use his research :)
 
-
-## To Do:
-
-- VBA Obfuscation module
-- More customisation VBA (Wscript.Shell.Exec / Run..)
-
 ## Quick Start Guide
 
 1. **Installation:**
